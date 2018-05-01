@@ -1,0 +1,26 @@
+{
+    "name"			   : "ProxyCheck",
+    "version"		   : "1.0.0",
+    "build"            : 1,
+    "namespace"		   : "com.github.openqb.ProxyCheck",
+	
+	"supportedOs"      : ["android","ios","osx","linux","windows"],
+
+    "tags"             : "check proxy",
+
+	"category"         : "Applications",
+	"subCategory"      : "Tools",
+	"genre"   		   : "Tools",
+
+    "minQbVersion"     : "1.1.0",
+    "appVariant"       : "APP",
+	"packageVariant"   : "QAP",    
+
+    "description"      : "Check socks5,http or https proxy",
+
+	"author"		   : [
+			{"name" : "Kawser" , "link" : "https://github.com/mkawserm" }
+	],
+	
+    "projectLink"	: [{"name":"GitHub","link":"openqb/ProxyCheck"}]
+}
